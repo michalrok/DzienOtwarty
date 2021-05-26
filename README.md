@@ -15,12 +15,10 @@ Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli,
 8. Na pasku wybieramy Importuj i ładujemy plik pobrany z tej strony (DzienOtwarty_1_0_0_x.zip)
 9. Czekamy kilka minut, aż się pojawi Dzień Otwarty na liście rozwiązań
 10. Kiedy pojawi się lista połączeń, zakładamy kolejno Teams/Outylook/Dataverse
-11. Wracamy do Teams i aplikacji Power Apps z punktu 4, przełączamy na stronę główną
-12. Na liście ostatnio używanych aplikacji znajdujemy kolejno:
-* Nauczyciele - otwieramy i przyciskiem po prawej u góry "Opublikuj w Teams" udostępniamy w kanale prywatnym w naszym zespole (patrz Uwagi poniżej)
-* Spotkania - jw.
-* Zapisane osoby - jw.
-* Zapisy na konsultacje - tą jedną aplikację udostępniamy WSZYSTKIM w zespole, aby mogli się zapisywać
+11. Wracamy do Teams, przełączamy na stronę naszego zespołu z pkt. 3
+12. Zakładamy "tajny" kanał wewnątrz zespołu dla osób, które będą miały wgląd w listę nauczycieli i ich plan spotkań
+13. Do "tajnego" kanału dodajemy (+) kartę Power Apps - wśród aplikacj znajdujemy kolejno: Spotkania, Nauczyciele, Zapisane osoby
+14. Do "jawnego" kanału dodajemy (+) kartę Power Apps - Zapisy na konsultacje (możemy zmienić nazwę karty wedle potrzeb)
 
 ## Jak używać?
 * idziemy do naszego wybranego zespołu i widzimy nowe zakładki z poszczególnymi apkami
