@@ -12,7 +12,7 @@ Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli,
 5. Logujemy się (link w prawym górnym)
 6. Z listy środowisk w prawym górnym rogu wybierz nazwę swojego zespołu z pkt. 3
 7. W menu po lewej wybieramy Rozwiązania
-8. Na pasku wybieramy Importuj i ładujemy plik pobrany z tej strony (DzienOtwarty_1_0_0_x.zip)
+8. Na pasku wybieramy Importuj i ładujemy plik pobrany z tej strony (DzienOtwarty.zip)
 9. Czekamy kilka minut, aż się pojawi Dzień Otwarty na liście rozwiązań
 10. Kiedy pojawi się lista połączeń, zakładamy kolejno Teams/Outylook/Dataverse
 11. Wracamy do Teams, przełączamy na stronę naszego zespołu z pkt. 3
