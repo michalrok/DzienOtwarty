@@ -17,8 +17,9 @@ Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli,
 10. Kiedy pojawi się lista połączeń, zakładamy kolejno Teams/Outylook/Dataverse
 11. Wracamy do Teams, przełączamy na stronę naszego zespołu z pkt. 3
 12. Zakładamy "tajny" kanał wewnątrz zespołu dla osób, które będą miały wgląd w listę nauczycieli i ich plan spotkań
-13. Do "tajnego" kanału dodajemy (+) kartę Power Apps - wśród aplikacj znajdujemy kolejno: Spotkania, Nauczyciele, Zapisane osoby
-14. Do "jawnego" kanału dodajemy (+) kartę Power Apps - Zapisy na konsultacje (możemy zmienić nazwę karty wedle potrzeb)
+13. Teraz dodajemy wszystkie cztery apki do kanałów naszego zespołu. W tym celu otwieramy apkę (Teams -> Power Apps -> Tworzenie -> Zainstalowane aplikacje -> Dzień Otwarty -> Zobacz wszystkie -> Aplikacje -> tu wybieramy jedną z apek i klikamy na nią aby otworzył się edytor). W edytorze w prawym górnym rogu jest przycisk Opublikuj w aplikacji Teams. Po wciśnięciu Dalej wskazujemy do którego kanału dodać apkę - "jawnego" czy "tajnego".
+14. Do "tajnego" (tego dla nauczycieli/administratora) kanału dodajemy (+) kartę Power Apps - wśród aplikacj znajdujemy kolejno: Spotkania, Nauczyciele, Zapisane osoby
+15. Do "jawnego" (tego dla uczniów i rodziców) kanału dodajemy (+) kartę Power Apps - Zapisy na konsultacje (możemy zmienić nazwę karty wedle potrzeb)
 
 ## Jak używać?
 * idziemy do naszego wybranego zespołu i widzimy nowe zakładki z poszczególnymi apkami
@@ -32,5 +33,4 @@ Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli,
 ## Uwagi i typowe kłopoty
 * zespół, w którym instalujesz aplikację musi być typu "Inne" (chodzi o ten ekran, kiedy zakładając zespół wybierasz Zajęcia/Personel/Inne)
 * do zespołu musi mieć wgląd każdy, kto ma móc się zapisać; jeśli więc nie masz gotowego zespołu np. na klasy 1-3, to zrób zespół Publiczny
-* aplikacje do wprowadzania danych spotkań/nauczycieli (czyli wszystkie oprócz "Zapisy na konsultacje") można dodać do prywatnego kanału w zespole - nie muszą ich widzieć uczniowie
-* 
+* aplikacje do wprowadzania danych spotkań/nauczycieli (czyli wszystkie oprócz "Zapisy na konsultacje") można dodać do prywatnego kanału w zespole - nie muszą ich widzieć uczniowie 
