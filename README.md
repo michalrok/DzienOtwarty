@@ -5,6 +5,8 @@ Aplikacja powstała na spotkanie z administratorami Teams w polskich szkołach. 
 Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli, dla każdego podajesz datę+godziny kiedy może się spotkać. Określasz czas trwania jednego spotkania, np. 15 minut. Uczniowie i rodzice widzą w Teams listę wolnych terminów u każdego z nauczycieli, mogą wybrać taki, jaki im odpowiada. Program zakłada spotkania w Teams i pilnuje, aby dwie osoby nie wpisały się na to samo spotkanie.
 
 ## Instalacja
+Instrukcja wideo: https://www.youtube.com/watch?v=C6WpAXg_eCw
+
 1. Teams, otwieramy po lewej stronie "..." i szukamy aplikacji Power Apps
 2. Naciskamy "Zacznij teraz"
 3. Wybieramy zespół, w którym będzie dostępna aplikacja (patrz Uwagi niżej)
@@ -33,4 +35,5 @@ Zakładasz spotkanie (np. Dni Otwarte Maj 2021). Wprowadzasz listę nauczycieli,
 ## Uwagi i typowe kłopoty
 * zespół, w którym instalujesz aplikację musi być typu "Inne" (chodzi o ten ekran, kiedy zakładając zespół wybierasz Zajęcia/Personel/Inne)
 * do zespołu musi mieć wgląd każdy, kto ma móc się zapisać; jeśli więc nie masz gotowego zespołu np. na klasy 1-3, to zrób zespół Publiczny
-* aplikacje do wprowadzania danych spotkań/nauczycieli (czyli wszystkie oprócz "Zapisy na konsultacje") można dodać do prywatnego kanału w zespole - nie muszą ich widzieć uczniowie 
+* aplikacje do wprowadzania danych spotkań/nauczycieli (czyli wszystkie oprócz "Zapisy na konsultacje") można dodać do prywatnego kanału w zespole - nie muszą ich widzieć uczniowie
+* jeśli apka pojawiła się w odpowiedniej zakładce ale nie działa, np. nie generują się terminy spotkań: otwórz listę składników rozwiązania (pkt. 13 instrukcji wyżej), tylko zamiast aplikacji zobacz przepływy. Klikając w "..." przy każdym z nich sprawdź, czy jest włączony (wtedy w menu jest opcja Wyłącz) czy też wyłączony (w menu opcja Włącz). Wszystkie 4 przepływy powinny być włączone.  
